@@ -100,4 +100,3 @@ Next steps include:
 
 Stay tuned for more updates on my GSoC journey as I continue to contribute to
 the DBpedia project!
-

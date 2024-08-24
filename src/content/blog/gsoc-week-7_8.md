@@ -73,4 +73,3 @@ Looking ahead, I have some clear action items that I’ll be focusing on:
 - **Try LLM-Based Relation Extraction:** Building on the coreference resolution, I’ll also explore LLM-based methods for relation extraction to enhance the accuracy and depth of the information extracted.
 
 The upcoming weeks will be crucial as I dive into these LLM-based approaches, and I’m excited about the potential advancements they could bring to the project.
-

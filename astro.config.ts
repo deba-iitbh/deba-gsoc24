@@ -9,7 +9,8 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  base: 'deba-gsoc24',
+  base: SITE.repo,
+  trailingSlash: "ignore",
   integrations: [
     tailwind({
       applyBaseStyles: false,

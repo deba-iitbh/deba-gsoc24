@@ -11,7 +11,7 @@ This project seeks to expand the Hindi DBpedia Chapter. Our objective is to enha
 **Mentors**: Sanju Tiwari, Ronak Panchal, Ananya, Ronit Banerjee
 
 <div>
-  <img src="/assets/gsoc_x_dbpedia.png" class="sm:h-1/2 mx-auto" alt="Orgnization">
+  <img src="/deba-gsoc24/assets/gsoc_x_dbpedia.png" class="sm:h-1/2 mx-auto" alt="Orgnization">
 </div>
 
 ## Tech Stack
